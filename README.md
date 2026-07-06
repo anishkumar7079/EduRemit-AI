@@ -175,7 +175,7 @@ Below are screenshots demonstrating the product user interface, dashboard tracki
 
 ### Analytics & Responsive Design
 ![Analytics](./images/analytics.png)
-![Responsive UI](./images/responsive%20ui.png)
+![Responsive UI](./images/responsive_ui.png)
 
 ---
 
